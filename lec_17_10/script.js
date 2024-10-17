@@ -42,7 +42,7 @@
 //     console.log(person[i]);
 // }
 
-// array methods --- ussed to transform the arrayy
+ array methods --- ussed to transform the arrayy
 // they give callback function
 
 // Map
